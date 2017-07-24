@@ -1,0 +1,5 @@
+some example <some@example.com>
+smtp.gmail.com
+587
+username
+password
