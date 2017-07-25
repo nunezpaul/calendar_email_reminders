@@ -1,0 +1,2 @@
+example0@group.calendar.google.com
+example1@group.calendar.google.com
