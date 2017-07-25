@@ -17,6 +17,8 @@
 # along with phil.  If not, see <http://www.gnu.org/licenses/>.
 #######################################################################
 
+#I modified this file. Got rid of the things I don't use. Probably doesn't work. -Paul
+
 import dateutil.rrule
 from collections import namedtuple
 import smtplib
